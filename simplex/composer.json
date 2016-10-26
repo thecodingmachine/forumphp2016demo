@@ -1,0 +1,17 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Demo\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "mnapoli/simplex": "dev-master",
+    "thecodingmachine/weatherapi-service-provider": "^1.0",
+    "thecodingmachine/monolog-universal-service-provider": "^1.0",
+    "thecodingmachine/guzzle-universal-service-provider": "^1.0",
+    "thecodingmachine/stash-universal-module" : "^1.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

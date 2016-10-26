@@ -1,0 +1,14 @@
+{
+    "/symfony/web-profiler-bundle": "vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources",
+    "/symfony/twig-bundle": "vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources",
+    "/symfony/security-bundle": "vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Resources",
+    "/symfony/framework-bundle": "vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources",
+    "/symfony": null,
+    "/sensio/generator-bundle": "vendor/sensio/generator-bundle/Resources",
+    "/sensio/framework-extra-bundle": "vendor/sensio/framework-extra-bundle/Resources",
+    "/sensio/distribution-bundle": "vendor/sensio/distribution-bundle/Resources",
+    "/sensio": null,
+    "/puli/symfony-puli-bundle": "vendor/puli/symfony-bundle/Resources",
+    "/puli": null,
+    "/": null
+}
